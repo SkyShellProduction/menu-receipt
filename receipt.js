@@ -71,5 +71,3 @@ function receipt(){
     }
     return obj1;
 }
-let rec = receipt();
-console.log(rec);
